@@ -1,8 +1,8 @@
 
 #include <stdlib.h>
-#include <stdio.h>
-#include <stdbool.h>
-#include <time.h>
+#include <stdio.h>   //standart input output kütüphanesi
+#include <stdbool.h>  
+#include <time.h>  //random sayı üretmek için gerekli olan kütüphane
 #include <math.h>
 #define NumSim 100000 
 
